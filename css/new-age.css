@@ -59,6 +59,12 @@ p {
   margin-bottom: 20px;
 }
 
+.quote-source {
+  bottom: 0;
+  font-weight: 100;
+  font-size: 12px;
+}
+
 .navbar-brand-image {
   height: 40px;
   width: 80px;
